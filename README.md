@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📩 You have any job opportunity for me? Reach me out at : gagancmd@gmail.com
+
+- I hold strong problem-solving skills with solid grounding in DSA and system design (Design Patterns, LLD).
+
+- Building scalable systems and learning system design
